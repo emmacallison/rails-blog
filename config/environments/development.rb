@@ -40,5 +40,5 @@ Rails.application.configure do
 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
-ENV["DARK_SKY_API_KEY"] = "2c70828b68cb9ba645eb55b5722bfc84"
+  #ENV["DARK_SKY_API_KEY"] = "2c70828b68cb9ba645eb55b5722bfc84"
 end
